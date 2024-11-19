@@ -1,3 +1,6 @@
+# Made by Julian Dominguez on 11/19/2024
+# Spam/Ham Dataset source: https://www.kaggle.com/datasets/bagavathypriya/spam-ham-dataset
+
 import re
 from typing import Iterable
 
